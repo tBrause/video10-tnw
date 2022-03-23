@@ -1,0 +1,8 @@
+{
+  "name": "video10-tnw",
+  "version": "0.0.1",
+  "description": "Video Tutorial : the nativ web : Folge 10",
+  "main": "app.js",
+  "author": "Torsen Brause",
+  "license": "ISC"
+}
