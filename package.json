@@ -4,5 +4,8 @@
   "description": "Video Tutorial : the nativ web : Folge 10",
   "main": "app.js",
   "author": "Torsen Brause",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "openssl": "2.0.0"
+  }
 }
